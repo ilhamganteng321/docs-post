@@ -1,0 +1,6 @@
+/* Semua gambar di konten markdown */
+.vp-doc img {
+  border-radius: 16px;
+  border: 1px solid var(--vp-c-divider);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
