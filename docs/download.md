@@ -232,7 +232,7 @@ description: Download Electron POS terbaru
   <h2>⬇️ Unduh Sekarang</h2>
   <p>Versi terbaru Electron POS siap digunakan di Windows 10 ke atas.</p>
   <div class="btn-group">
-    <a class="btn-win" href="https://github.com/ilhamganteng321/electron-pos/releases/download/v1.0.0/pos-1.0.0-setup.exe">
+    <a class="btn-win" href="https://github.com/ilhamganteng321/electron-pos/releases/download/v1.5.0/pos-1.5.0-setup.exe">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
       Download untuk Windows
     </a>
@@ -268,9 +268,9 @@ description: Download Electron POS terbaru
 
 <div class="release-card">
   <div class="release-left">
-    <span class="version-badge">v1.0.0</span>
+    <span class="version-badge">v1.5.0</span>
     <div class="release-meta">
-      <strong>14 Mei 2026</strong><br>Rilis perdana
+      <strong>11 juni 2026</strong><br>
     </div>
   </div>
   <span class="latest-tag">Latest</span>
